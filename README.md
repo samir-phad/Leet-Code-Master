@@ -13,19 +13,19 @@ learning and problem-solving journey using Java.
 
 
 ## 📂 Repository Structure
+
+```text
 Leet-Code-Master/
 │
 ├── Easy/
-|    |
-|    |--Q 1
-|    |--Q 13
-|
+│   ├── Q 1
+│   └── Q 13
+│
 ├── Medium/
-|    |
-|    |--Q 34
-|    |--Q 1927
-|
-├── Hard/
-     |
-     |--Q 
-|    |--Q 
+│   ├── Q 34
+│   └── Q 1927
+│
+└── Hard/
+    ├── Q
+    └── Q
+```
