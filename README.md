@@ -11,3 +11,21 @@ learning and problem-solving journey using Java.
 - Solve coding problems regularly
 - Prepare for technical interviews
 
+
+## 📂 Repository Structure
+Leet-Code-Master/
+│
+├── Easy/
+|    |
+|    |--Q 1
+|    |--Q 13
+|
+├── Medium/
+|    |
+|    |--Q 34
+|    |--Q 1927
+|
+├── Hard/
+     |
+     |--Q 
+|    |--Q 
