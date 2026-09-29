@@ -6,10 +6,10 @@ learning and problem-solving journey using Java.
 
 ## 🎯 Goal
 
-- Improve problem-solving skills
-- Learn DSA concepts step by step
-- Solve coding problems regularly
-- Prepare for technical interviews
+- Improve problem-solving skills.
+- Learn DSA concepts step by step.
+- Solve coding problems regularly.
+- Solve Daily Minimum one or more Questions.
 
 
 ## 📂 Repository Structure
